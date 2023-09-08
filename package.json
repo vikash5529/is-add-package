@@ -1,0 +1,22 @@
+{
+  "name": "is-add-package",
+  "version": "1.0.0",
+  "description": "Add two numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikash5529/is-add-package.git"
+  },
+  "keywords": [
+    "Add"
+  ],
+  "author": "Vikash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikash5529/is-add-package/issues"
+  },
+  "homepage": "https://github.com/vikash5529/is-add-package#readme"
+}
